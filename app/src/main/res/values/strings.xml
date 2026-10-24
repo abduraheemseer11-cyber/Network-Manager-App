@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">إدارة الشبكة</string>
+    <string name="dashboard_title">لوحة التحكم</string>
+    <string name="users_title">المستخدمين</string>
+    <string name="vouchers_title">توليد الكروت</string>
+    <string name="active_users_title">المتصلين الآن</string>
+    <string name="profiles_title">الباقات</string>
+    <string name="map_title">خريطة الأجهزة</string>
+    <string name="settings_title">الإعدادات</string>
+    <string name="system_resources">موارد النظام</string>
+    <string name="cpu_load">جهد المعالج</string>
+    <string name="free_memory">الذاكرة المتاحة</string>
+    <string name="free_hdd">المساحة المتاحة</string>
+    <string name="uptime">مدة التشغيل</string>
+    <string name="router_model">طراز اللوحة</string>
+    <string name="routeros_version">إصدار النظام</string>
+    <string name="active_hotspot_users">المستخدمين النشطين</string>
+    <string name="total_hotspot_users">إجمالي الكروت</string>
+    <string name="today_income">مبيعات اليوم</string>
+    <string name="live_traffic">مراقبة السرعة المباشرة</string>
+    <string name="download_rate">تنزيل (Rx)</string>
+    <string name="upload_rate">رفع (Tx)</string>
+    <string name="connect">اتصال</string>
+    <string name="disconnect">قطع الاتصال</string>
+    <string name="status_connected">متصل</string>
+    <string name="status_connecting">جاري الاتصال...</string>
+    <string name="status_disconnected">غير متصل</string>
+    <string name="add_router">إضافة راوتر جديد</string>
+    <string name="generate_vouchers">توليد كروت</string>
+    <string name="batch_print">طباعة الكروت</string>
+    <string name="reboot_router">إعادة تشغيل الراوتر</string>
+</resources>

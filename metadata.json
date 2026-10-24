@@ -1,0 +1,6 @@
+{
+  "name": "إدارة الشبكة",
+  "description": "تطبيق احترافي شامل لإدارة شبكات ميكروتك (MikroTik Hotspot & RouterOS)، مستوحى من نظام Mikhmon v3 مع دعم كامل للغة العربية وتوليد كروت الهوتسبوت والمراقبة المباشرة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
